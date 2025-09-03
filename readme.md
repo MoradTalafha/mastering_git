@@ -1,3 +1,2 @@
 Hello, Git!
-
-- I'm adding this from feature-branch
+I'm adding a calculator GUI feature!
