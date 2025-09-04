@@ -1,2 +1,4 @@
 Hello, Git!
-I'm adding a calculator GUI feature!
+-welcome to Git!
+-This is coming from 'div-adrian'
+-I'm adding a calculator GUI feature!
