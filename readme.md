@@ -1,2 +1,3 @@
-Hello, Git!
-I'm adding a calculator GUI feature!
+Hi everone, Welcome to my Git guide!
+-Yo, johnny here!
+-I'm adding a calculator GUI feature!
